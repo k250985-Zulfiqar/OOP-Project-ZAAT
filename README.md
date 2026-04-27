@@ -21,8 +21,9 @@ The system allows adding car listings, approving listings, buying cars, saving f
 4. Seller can update or delete listings
 5. Buyer can view available cars
 6. Buyer can save favorite cars
-7. Buyer can purchase a car
-8. System saves and loads listings from file (CSV)
+7. Buyer can search cars by brand
+8. Buyer can purchase a car
+9. System saves and loads listings from file (CSV)
 
 ## How to Compile
 Use any C++ compiler (Dev-C++ recommended):
